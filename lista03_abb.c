@@ -1,6 +1,6 @@
 /*
  * ============================================================
- *  Nome: Adriel Barros Teixeira
+ *  Nome: Pedro Riquelme de Oliveira Uchôa
  *  Curso: Tecnologia em Analise e Desenvolvimento de Sistemas
  *  Modulo: III
  *  Disciplina: Estruturas de Dados II
